@@ -1,0 +1,101 @@
+date,product,category,quantity,unit_price
+2026-01-03,Sneakers,Clothing,2,77.18
+2026-01-03,Smartphone,Electronics,2,611.63
+2026-01-06,Standing Desk,Furniture,3,342.93
+2026-01-08,Laptop,Electronics,1,811.73
+2026-01-10,Sneakers,Clothing,6,75.99
+2026-01-11,Standing Desk,Furniture,2,324.23
+2026-01-12,Smartphone,Electronics,3,573.88
+2026-01-12,Bookshelf,Furniture,1,107.07
+2026-01-14,Jeans,Clothing,2,41.84
+2026-01-15,Standing Desk,Furniture,1,357.51
+2026-01-16,Pen Set,Stationery,,11.17
+2026-01-16,Sneakers,Clothing,6,69.69
+2026-01-20,Smartphone,Electronics,3,638.78
+2026-01-21,T-Shirt,Clothing,9,19.34
+2026-01-21,Bookshelf,Furniture,1,116.45
+2026-01-21,Notebook,Stationery,2,4.15
+2026-01-21,Notebook,Stationery,7,4.1
+2026-01-24,Laptop,Electronics,3,839.61
+2026-01-26,Notebook,Stationery,2,4.02
+2026-01-27,Standing Desk,Furniture,1,333.47
+2026-01-28,Standing Desk,Furniture,1,323.22
+2026-01-29,Pen Set,Stationery,1,12.46
+2026-01-29,Laptop,Electronics,1,867.33
+2026-01-31,Jeans,Clothing,4,43.02
+2026-02-05,Desk Chair,Furniture,3,159.83
+2026-02-09,Bookshelf,Furniture,1,118.05
+2026-02-09,Sneakers,Clothing,5,72.38
+2026-02-10,Laptop,Electronics,3,839.48
+2026-02-10,T-Shirt,Clothing,8,18.41
+2026-02-10,Sneakers,Clothing,1,80.53
+2026-02-11,Standing Desk,Furniture,2,332.13
+2026-02-11,Desk Chair,Furniture,1,169.76
+2026-02-12,Desk Chair,Furniture,2,159.63
+2026-02-17,Smartphone,Electronics,1,609.12
+2026-02-25,Bookshelf,Furniture,1,111.39
+2026-02-26,Notebook,Stationery,1,3.73
+2026-02-27,Desk Chair,Furniture,1,166.05
+2026-03-02,Pen Set,Stationery,7,11.27
+2026-03-04,Smartphone,Electronics,2,579.36
+2026-03-05,Headphones,Electronics,9,90.56
+2026-03-05,Notebook,Stationery,10,
+2026-03-09,Sneakers,Clothing,3,80.2
+2026-03-09,Headphones,Electronics,2,95.61
+2026-03-10,Pen Set,Stationery,2,12.21
+2026-03-10,Sneakers,Clothing,6,70.34
+2026-03-11,T-Shirt,Clothing,9,19.1
+2026-03-13,T-Shirt,Clothing,8,20.43
+2026-03-15,Jeans,Clothing,7,46.42
+2026-03-18,Sneakers,Clothing,2,80.27
+2026-03-20,Standing Desk,Furniture,1,315.95
+2026-03-21,Desk Chair,Furniture,2,172.68
+2026-03-22,Notebook,Stationery,4,4.1
+2026-03-24,Notebook,Stationery,8,3.69
+2026-03-26,Laptop,Electronics,1,851.93
+2026-03-29,Desk Chair,Furniture,1,164.8
+2026-03-30,Standing Desk,Furniture,3,327.19
+2026-04-06,Pen Set,Stationery,8,12.77
+2026-04-10,Laptop,Electronics,2,908.01
+2026-04-12,Bookshelf,Furniture,1,113.02
+2026-04-13,Standing Desk,Furniture,2,316.4
+2026-04-13,Desk Chair,Furniture,1,151.41
+2026-04-15,Jeans,Clothing,4,42.08
+2026-04-15,Sneakers,Clothing,10,77.99
+2026-04-19,Pen Set,Stationery,10,11.16
+2026-04-19,Notebook,Stationery,4,4.27
+2026-04-20,Notebook,Stationery,10,3.94
+2026-04-21,Pen Set,Stationery,6,11.85
+2026-04-21,Headphones,Electronics,3,83.4
+2026-04-24,Smartphone,Electronics,3,561.4
+2026-04-25,Sneakers,Clothing,3,74.06
+2026-04-25,Sneakers,Clothing,3,74.06
+2026-04-28,Bookshelf,Furniture,2,117.55
+2026-04-29,Bookshelf,Furniture,1,116.59
+2026-05-03,Notebook,Stationery,9,4.27
+2026-05-09,Bookshelf,Furniture,1,110.14
+2026-05-10,Bookshelf,Furniture,2,105.62
+2026-05-14,Notebook,Stationery,6,4.28
+2026-05-16,Pen Set,Stationery,1,12.32
+2026-05-17,Headphones,Electronics,4,85.15
+2026-05-17,Smartphone,Electronics,1,564.33
+2026-05-19,Headphones,Electronics,9,96.03
+2026-05-19,Pen Set,Stationery,1,12.9
+2026-05-20,Pen Set,Stationery,2,12.17
+2026-05-20,Jeans,Clothing,5,45.8
+2026-05-21,Jeans,Clothing,3,43.31
+2026-05-22,Jeans,Clothing,7,45.44
+2026-05-27,Headphones,Electronics,10,89.61
+2026-05-31,Jeans,Clothing,5,47.23
+2026-06-02,T-Shirt,Clothing,8,20.09
+2026-06-04,Sneakers,Clothing,1,75.73
+2026-06-05,Sneakers,Clothing,4,70.83
+2026-06-08,Pen Set,Stationery,6,12.15
+2026-06-10,Smartphone,Electronics,2,632.8
+2026-06-13,Headphones,Electronics,5,85.13
+2026-06-14,T-Shirt,Clothing,8,18.86
+2026-06-19,Sneakers,Clothing,8,70.86
+2026-06-20,Desk Chair,Furniture,1,156.25
+2026-06-21,Bookshelf,Furniture,2,104.97
+2026-06-21,Desk Chair,Furniture,3,155.24
+2026-06-29,Pen Set,Stationery,9,11.85

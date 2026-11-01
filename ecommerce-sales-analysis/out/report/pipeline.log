@@ -1,0 +1,25 @@
+2026-11-01 01:06:44,921 INFO src.data_loader: Loaded 100 rows x 5 columns from sales_data.csv
+2026-11-01 01:06:44,929 INFO src.data_loader: Cleaning log: {'rows_raw': 100, 'duplicates_removed': 1, 'missing_or_invalid_removed': 2, 'non_positive_removed': 0, 'rows_clean': 97, 'rows_removed_total': 3}
+2026-11-01 01:06:44,961 ERROR pipeline: Unexpected error
+Traceback (most recent call last):
+  File "C:\Users\ASUS\Desktop\Intern_GA\ecommerce-sales-analysis\main.py", line 60, in main
+    out = run_pipeline(args.input, args.output_dir)
+  File "C:\Users\ASUS\Desktop\Intern_GA\ecommerce-sales-analysis\main.py", line 43, in run_pipeline
+    results = run_analysis(clean)
+  File "C:\Users\ASUS\Desktop\Intern_GA\ecommerce-sales-analysis\src\analyzer.py", line 112, in run_analysis
+    "price_qty_corr": price_quantity_correlation(df),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "C:\Users\ASUS\Desktop\Intern_GA\ecommerce-sales-analysis\src\analyzer.py", line 87, in price_quantity_correlation
+    return float(df["unit_price"].corr(df["quantity"], method="spearman"))
+                 ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\pandas\core\series.py", line 3101, in corr
+    result = nanops.nancorr(
+        this_values, other_values, method=method, min_periods=min_periods
+    )
+  File "C:\Users\ASUS\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\pandas\core\nanops.py", line 91, in _f
+    return f(*args, **kwargs)
+  File "C:\Users\ASUS\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\pandas\core\nanops.py", line 2025, in nancorr
+    f = get_corr_func(method)
+  File "C:\Users\ASUS\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\pandas\core\nanops.py", line 2040, in get_corr_func
+    from scipy.stats import spearmanr
+ModuleNotFoundError: No module named 'scipy'
