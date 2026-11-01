@@ -1,0 +1,52 @@
+
+STUDENT GRADE CALCULATOR - TEST CASES
+
+Test Case 1:
+Input: 95
+Expected Grade: A
+Status: Pass
+
+Test Case 2:
+Input: 85
+Expected Grade: B
+Status: Pass
+
+Test Case 3:
+Input: 75
+Expected Grade: C
+Status: Pass
+
+Test Case 4:
+Input: 65
+Expected Grade: D
+Status: Pass
+
+Test Case 5:
+Input: 45
+Expected Grade: F
+Status: Pass
+
+Test Case 6:
+Input: 100
+Expected Grade: A
+Status: Pass
+
+Test Case 7:
+Input: 0
+Expected Grade: F
+Status: Pass
+
+Test Case 8:
+Input: 105
+Expected: Invalid marks
+Status: Pass
+
+Test Case 9:
+Input: -10
+Expected: Invalid marks
+Status: Pass
+
+Test Case 10:
+Input: abc
+Expected: Invalid input message
+Status: Pass
